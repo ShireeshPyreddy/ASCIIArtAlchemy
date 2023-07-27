@@ -24,6 +24,9 @@ The Stochastic ASCII Art Generator is an innovative project that harnesses the p
 
 - **Unpredictable Creativity:** Embrace the allure of unpredictability as each run produces a fresh, yet thematically coherent, ASCII masterpiece.
 
+## Note
+The image above is one of the stochastically generated ASCII Art. 
+
 ## How to Use
 
 1. **Clone the Repository:**
