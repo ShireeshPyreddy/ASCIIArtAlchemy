@@ -17,6 +17,12 @@ Unleash the Enchantment with the awe-inspiring power of BingAI's Prompt Engineer
 
 The Stochastic ASCII Art Generator is an innovative project that harnesses the power of BingAI's Prompt Engineering to create mesmerizing ASCII art. With each run of the program, a new piece of art emerges, all sharing the same captivating theme and style.
 
+## Prompts Used
+
+To give you insight into the generation of the captivating ASCII art, I've compiled a collection of the prompts used to create it. To access the prompts, please refer to the PDF document titled **Stochastic-Ascii-Prompts.pdf**. You can download the PDF by clicking [here](https://github.com/ShireeshPyreddy/ASCIIArtAlchemy/blob/main/Stochastic-Ascii-Prompts.pdf).
+
+Feel free to explore the prompts and experiment with your own variations to unlock the full potential of the Stochastic ASCII Art Generator. I encourage you to share your unique creations and discoveries with the community!
+
 ## Key Features
 - **Human-Driven Design:** Every artwork reflects the artistic touch of the developer (myself), ensuring a harmonious blend of human intelligence and AI brilliance.
 
