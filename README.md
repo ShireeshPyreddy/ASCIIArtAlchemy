@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="project-logo.png" alt="Stochastic ASCII Art Generator" width="300" height="300">
+  <img src="ascii-art.jpg" alt="Stochastic ASCII Art Generator" width="500" height="300">
 </p>
 
 # Stochastic ASCII Art Generator
