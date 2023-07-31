@@ -35,7 +35,7 @@ The image above is one of the stochastically generated ASCII Art.
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/stochastic-ascii-art-generator.git
+git clone https://github.com/ShireeshPyreddy/stochastic-ascii-art-generator.git
 cd stochastic-ascii-art-generator
 ```
 2. **Run the Generator:**
