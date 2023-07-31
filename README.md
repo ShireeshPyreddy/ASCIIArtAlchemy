@@ -5,7 +5,7 @@
 # Stochastic ASCII Art Generator
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![BingAI Badge](https://img.shields.io/badge/Powered%20by-BingAI-red)](https://www.bingai.ai/)
+[![BingAI Badge](https://img.shields.io/badge/Powered%20by-BingAI-red)](https://www.bingai.com/)
 
 Unleash the Enchantment with the awe-inspiring power of BingAI's Prompt Engineering, driving the Stochastic ASCII Art Generator to reveal captivating ASCII masterpieces that will leave you in awe, each brimming with the unmistakable brilliance of creative artistry!
 
